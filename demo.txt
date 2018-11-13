@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 //code
 HAHAHAHAHAHA
+=======
+>>>>>>> 8b4479aec17237ff0c89d9eecc12032538cb04fd
 func thisIsCode() {
 	return pleaseBelieveMe(true)
 }
+
+// ....
