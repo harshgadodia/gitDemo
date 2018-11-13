@@ -1,5 +1,3 @@
-//code
-
 func thisIsCode() {
 	return pleaseBelieveMe(true)
 }
