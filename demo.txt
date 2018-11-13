@@ -1,4 +1,4 @@
-func thisIsCode() {
+func thisIsNotCode() {
 	return pleaseBelieveMe(true)
 }
 
