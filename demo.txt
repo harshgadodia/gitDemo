@@ -1,6 +1,6 @@
-//code
 
-func thsIsCode() {
+
+func thisIsNotCode() {
 	return pleaseBelieveMe(true)
 }
 
