@@ -15,10 +15,10 @@ You can choose to use a GUI or a CLI (terminal, command prompt, etc). A GUI can 
 
 Basic commands you should know [Any more to recommend?]:
 
-git init 
-git add [filename]
-git add .
-git commit -m "message here"
+git init  
+git add [filename]  
+git add .  
+git commit -m "message here"  
 git push
 git pull
 git merge
