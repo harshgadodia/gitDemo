@@ -19,14 +19,14 @@ git init
 git add [filename]  
 git add .  
 git commit -m "message here"  
-git push
-git pull
-git merge
-git log 
-git status 
-git checkout [branch name]
-git checkout -b "new branch name"
-git fetch (what is the difference between fetch and merge)
+git push  
+git pull  
+git merge  
+git log   
+git status   
+git checkout [branch name]  
+git checkout -b "new branch name"  
+git fetch (what is the difference between fetch and merge)  
 
 Steps to try out:
 
@@ -34,27 +34,27 @@ Steps to try out:
 
 Add new tutorial file to your project to make your life easier.
 
-a. Create new git repository
-b. Check out a new branch. Call it "dev".
-c. Add a readme file in markdown format
-d. Add 100 lines of text to readme file
-e. Commit changes [Your commit message should be concise and helpful]
-f. Push to remote [Do you face any issues? How do you solve them?]
-g. Merge **dev** *into* **master** [How do do you do this? Hint: It is a combination of multiple commands]
+a. Create new git repository  
+b. Check out a new branch. Call it "dev".  
+c. Add a readme file in markdown format  
+d. Add 100 lines of text to readme file  
+e. Commit changes [Your commit message should be concise and helpful]  
+f. Push to remote [Do you face any issues? How do you solve them?]  
+g. Merge **dev** *into* **master** [How do do you do this? Hint: It is a combination of multiple commands]  
 
-#2. Simulate a merge conflict
+#2. Simulate a merge conflict  
 
-a. Check out dev
-b. Change line 1 of readme file in dev
-c. Check out master
-d. Change line 1 of readme file in master
-e. Merge dev into master [What happens? How should you deal with it?]
+a. Check out dev  
+b. Change line 1 of readme file in dev  
+c. Check out master  
+d. Change line 1 of readme file in master  
+e. Merge dev into master [What happens? How should you deal with it?]  
 
 #3 Revisit a previous commit 
 
-a. Check out dev
-b. Revisit your project as of 1 commit ago.
-c. You now realise you rather have your project back at this state. Set it back at this state. How do you do this?
+a. Check out dev  
+b. Revisit your project as of 1 commit ago.  
+c. You now realise you rather have your project back at this state. Set it back at this state. How do you do this?  
 
 #4 Collaborating
 
